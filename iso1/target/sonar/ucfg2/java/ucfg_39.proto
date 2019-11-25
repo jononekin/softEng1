@@ -1,0 +1,66 @@
+
+(domain.User#toString()Ljava/lang/String;I
+?/Users/joniturrioz/git/iso1/iso1/src/main/java/domain/User.java8 8("1*à
+
+1I
+?/Users/joniturrioz/git/iso1/iso1/src/main/java/domain/User.java9	 9(…
+‚
+I
+?/Users/joniturrioz/git/iso1/iso1/src/main/java/domain/User.java9	 9(
+%0java.lang.String"__id**
+domain.User"
+id‘
+Ž
+I
+?/Users/joniturrioz/git/iso1/iso1/src/main/java/domain/User.java9	 9(
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+ ‘
+Ž
+I
+?/Users/joniturrioz/git/iso1/iso1/src/main/java/domain/User.java9	 9(
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+ ‡
+„
+I
+?/Users/joniturrioz/git/iso1/iso1/src/main/java/domain/User.java9 9(
+%3java.lang.String"__id**
+domain.User"
+name¤
+¡
+I
+?/Users/joniturrioz/git/iso1/iso1/src/main/java/domain/User.java9	 9(
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.String‘
+Ž
+I
+?/Users/joniturrioz/git/iso1/iso1/src/main/java/domain/User.java9	 9(
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+ Œ
+‰
+I
+?/Users/joniturrioz/git/iso1/iso1/src/main/java/domain/User.java9 9('
+%6java.lang.String"__id**
+domain.User"
+	telephone¤
+¡
+I
+?/Users/joniturrioz/git/iso1/iso1/src/main/java/domain/User.java9	 9('
+%7java.lang.String"__concat*
+
+%5java.lang.String*
+
+%6java.lang.String"e
+I
+?/Users/joniturrioz/git/iso1/iso1/src/main/java/domain/User.java9 9((
+
+%7java.lang.StringB
+domain.User

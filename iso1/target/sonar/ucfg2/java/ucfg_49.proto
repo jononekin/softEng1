@@ -1,0 +1,23 @@
+
+ldatabase.ForumInMemoryDAO#getPurchasesDAO(Ldomain/User;Ljava/util/Date;Ljava/util/Date;)Ljava/util/Iterator;W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.java/ /(*"1*ù
+1W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.java0	 0(
+«ƒ
+W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.java0	 0(,
+%0java.util.Iterator"Ndomain.User#getPurchases(Ljava/util/Date;Ljava/util/Date;)Ljava/util/Iterator;*
+
+udomain.User*
+
+	firstDatejava.util.Date*
+
+lastDatejava.util.Date2.getPurchases(Ljava/util/Date;Ljava/util/Date;)"u
+W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.java0 0(-
+
+%0java.util.Iterator:
+udomain.User:
+	firstDatejava.util.Date:
+lastDatejava.util.DateB
+database.ForumInMemoryDAO

@@ -1,0 +1,24 @@
+
+;database.ForumInMemoryDAO#existUserDAO(Ljava/lang/String;)ZW
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.java@ @("1*š
+1W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.javaB	 B(§
+¤
+W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.javaB	 B(
+%0java.util.HashMap"__id***(
+database.ForumInMemoryDAO"	
+dbUsers®
+«
+W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.javaB	 B(
+%1domain.User"__mapGet*
+
+%0java.util.HashMap*
+
+idjava.lang.String"a
+W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.javaB B(
+"":
+idjava.lang.StringB
+database.ForumInMemoryDAO

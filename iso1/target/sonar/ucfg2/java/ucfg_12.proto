@@ -1,0 +1,24 @@
+
+>businessLogic.ForumBL#getUser(Ljava/lang/String;)Ldomain/User;S
+I/Users/joniturrioz/git/iso1/iso1/src/main/java/businessLogic/ForumBL.java   ("1*ÿ
+1S
+I/Users/joniturrioz/git/iso1/iso1/src/main/java/businessLogic/ForumBL.java!	 !(¤
+¡
+S
+I/Users/joniturrioz/git/iso1/iso1/src/main/java/businessLogic/ForumBL.java!	 !( 
+%0database.ForumDAOInterface"__id*"* 
+businessLogic.ForumBL"
+dao‘Ž
+S
+I/Users/joniturrioz/git/iso1/iso1/src/main/java/businessLogic/ForumBL.java!	 !(
+%1domain.User"Fdatabase.ForumDAOInterface#getUserDAO(Ljava/lang/String;)Ldomain/User;*"
+ 
+%0database.ForumDAOInterface*
+
+idjava.lang.String2getUserDAO(Ljava/lang/String;)"j
+S
+I/Users/joniturrioz/git/iso1/iso1/src/main/java/businessLogic/ForumBL.java! !(
+
+%1domain.User:
+idjava.lang.StringB
+businessLogic.ForumBL

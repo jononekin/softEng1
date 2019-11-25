@@ -1,0 +1,54 @@
+
+^database.ForumInMemoryDAO#addStockDAO(Ljava/lang/String;Ljava/lang/String;IZI)Ldomain/Article;W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.java4 4("1*Ó
+1W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.java5 5(Å
+W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.java5 5(
+%0domain.Article"domain.Articleâ
+Ü
+W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.java5 5(=
+%1"?domain.Article#<init>(Ljava/lang/String;Ljava/lang/String;IZI)V*
+
+%0domain.Article*
+
+idjava.lang.String*
+
+descjava.lang.String*
+""*
+""*
+""ë
+é
+W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.java5 5(>
+artdomain.Article"__id*
+
+%0domain.Article™
+ß
+W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.java6 6(
+%2java.util.HashMap"__id*-*+
+database.ForumInMemoryDAO"
+
+dbArticles 
+«
+W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.java6 6(
+%3domain.Article"__mapSet*
+
+%2java.util.HashMap*
+
+idjava.lang.String*
+
+artdomain.Article"r
+W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.java7 7(
+
+artdomain.Article:
+idjava.lang.String:
+descjava.lang.String:
+"":
+"":
+""B
+database.ForumInMemoryDAO

@@ -1,0 +1,26 @@
+
+Ldatabase.ForumInMemoryDAO#removeStockDAO(Ljava/lang/String;)Ldomain/Article;W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.java; ;("1*³
+1W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.java<	 <(ª
+§
+W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.java<	 <(
+%0java.util.HashMap"__id*-*+
+database.ForumInMemoryDAO"
+
+dbArticles´
+±
+W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.java<	 <(
+%1domain.Article"__mapRemove*
+
+%0java.util.HashMap*
+
+idjava.lang.String"q
+W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.java< <(
+
+%1domain.Article:
+idjava.lang.StringB
+database.ForumInMemoryDAO

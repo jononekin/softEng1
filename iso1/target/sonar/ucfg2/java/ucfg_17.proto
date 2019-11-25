@@ -1,0 +1,24 @@
+
+EbusinessLogic.ForumBL#removeStock(Ljava/lang/String;)Ldomain/Article;S
+I/Users/joniturrioz/git/iso1/iso1/src/main/java/businessLogic/ForumBL.java7 7("1*ê
+1S
+I/Users/joniturrioz/git/iso1/iso1/src/main/java/businessLogic/ForumBL.java8	 8(§
+°
+S
+I/Users/joniturrioz/git/iso1/iso1/src/main/java/businessLogic/ForumBL.java8	 8( 
+%0database.ForumDAOInterface"__id*"* 
+businessLogic.ForumBL"
+daoüú
+S
+I/Users/joniturrioz/git/iso1/iso1/src/main/java/businessLogic/ForumBL.java8	 8(
+%1domain.Article"Mdatabase.ForumDAOInterface#removeStockDAO(Ljava/lang/String;)Ldomain/Article;*"
+ 
+%0database.ForumDAOInterface*
+
+idjava.lang.String2"removeStockDAO(Ljava/lang/String;)"m
+S
+I/Users/joniturrioz/git/iso1/iso1/src/main/java/businessLogic/ForumBL.java8 8( 
+
+%1domain.Article:
+idjava.lang.StringB
+businessLogic.ForumBL

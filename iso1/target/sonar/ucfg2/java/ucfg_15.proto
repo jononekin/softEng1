@@ -1,0 +1,30 @@
+
+ebusinessLogic.ForumBL#getPurchases(Ldomain/User;Ljava/util/Date;Ljava/util/Date;)Ljava/util/Iterator;S
+I/Users/joniturrioz/git/iso1/iso1/src/main/java/businessLogic/ForumBL.java1 1('"1*‹
+1S
+I/Users/joniturrioz/git/iso1/iso1/src/main/java/businessLogic/ForumBL.java2	 2(¤
+¡
+S
+I/Users/joniturrioz/git/iso1/iso1/src/main/java/businessLogic/ForumBL.java2	 2( 
+%0database.ForumDAOInterface"__id*"* 
+businessLogic.ForumBL"
+dao–“
+S
+I/Users/joniturrioz/git/iso1/iso1/src/main/java/businessLogic/ForumBL.java2	 2(3
+%1java.util.Iterator"mdatabase.ForumDAOInterface#getPurchasesDAO(Ldomain/User;Ljava/util/Date;Ljava/util/Date;)Ljava/util/Iterator;*"
+ 
+%0database.ForumDAOInterface*
+
+udomain.User*
+
+	firstDatejava.util.Date*
+
+lastDatejava.util.Date2>getPurchasesDAO(Ldomain/User;Ljava/util/Date;Ljava/util/Date;)"q
+S
+I/Users/joniturrioz/git/iso1/iso1/src/main/java/businessLogic/ForumBL.java2 2(4
+
+%1java.util.Iterator:
+udomain.User:
+	firstDatejava.util.Date:
+lastDatejava.util.DateB
+businessLogic.ForumBL

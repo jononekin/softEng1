@@ -1,0 +1,50 @@
+
+idatabase.ForumInMemoryDAO#addUserDAO(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ldomain/User;W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.java ("1*Û
+1W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.java ({y
+W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.java (
+%0domain.User"domain.User•
+’
+W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.java	 ( 
+%1"Kdomain.User#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*
+
+%0domain.User*
+
+idjava.lang.String*
+
+namejava.lang.String*
+
+teljava.lang.String‰
+†
+W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.java (!
+udomain.User"__id*
+
+%0domain.User§
+¤
+W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.java (	
+%2java.util.HashMap"__id***(
+database.ForumInMemoryDAO"	
+dbUsersÂ
+¿
+W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.java (
+%3domain.User"__mapSet*
+
+%2java.util.HashMap*
+
+idjava.lang.String*
+
+udomain.User"m
+W
+M/Users/joniturrioz/git/iso1/iso1/src/main/java/database/ForumInMemoryDAO.java (
+
+udomain.User:
+idjava.lang.String:
+namejava.lang.String:
+teljava.lang.StringB
+database.ForumInMemoryDAO
