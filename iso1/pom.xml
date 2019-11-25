@@ -13,4 +13,10 @@
          <scope>test</scope>
       </dependency>
    </dependencies>
+   <properties>
+      <sonar.projectKey>jononekin_softEng1</sonar.projectKey>
+      <sonar.organization>jononekin</sonar.organization>
+      <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+      <sonar.login>0bb1a015a39e67f0252ae9de69093132dab64bb6</sonar.login>
+    </properties>
 </project>

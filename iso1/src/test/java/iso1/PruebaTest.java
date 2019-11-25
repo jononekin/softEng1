@@ -10,5 +10,8 @@ public class PruebaTest {
 	public void test() {
 		assertTrue(4==4);
 	}
-
+	@Test
+	public void test2() {
+		assertTrue(2==2);
+	}
 }

@@ -1,6 +1,7 @@
 businessLogic/ValidadorDNI.class
 database/ForumDAOInterface.class
 domain/User.class
+Main.class
 domain/Article.class
 domain/Purchase.class
 domain/PurchasedArticle.class
