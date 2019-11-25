@@ -1,0 +1,8 @@
+businessLogic/ValidadorDNI.class
+database/ForumDAOInterface.class
+domain/User.class
+domain/Article.class
+domain/Purchase.class
+domain/PurchasedArticle.class
+businessLogic/ForumBL.class
+database/ForumInMemoryDAO.class
