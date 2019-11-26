@@ -12,6 +12,6 @@ public class PruebaTest {
 	}
 	@Test
 	public void test2() {
-		assertTrue(2==2);
+		assertTrue(2==1);
 	}
 }
