@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class PruebaTest {
 
-	@Test
+	@Test 
 	public void test() {
 		assertTrue(4==4);
 	}
