@@ -14,7 +14,7 @@
       </dependency>
    </dependencies>
    <properties>
-      <sonar.projectKey>jononekin_softEng1</sonar.projectKey>
+      <sonar.projectKey>softEng1</sonar.projectKey>
       <sonar.organization>jononekin</sonar.organization>
       <sonar.host.url>https://sonarcloud.io</sonar.host.url>
       <sonar.login>f8fb5ba85d2c48de91b4087017211885abb34d30</sonar.login>
