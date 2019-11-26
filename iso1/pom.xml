@@ -3,8 +3,8 @@
   <groupId>iso1</groupId>
   <artifactId>iso1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>Forum</name>
-  <description>Forum project	</description>
+  <name>softEng1</name>
+  <description>softEng1</description>
   <dependencies>
       <dependency>
          <groupId>junit</groupId>
@@ -17,6 +17,6 @@
       <sonar.projectKey>jononekin_softEng1</sonar.projectKey>
       <sonar.organization>jononekin</sonar.organization>
       <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-      <sonar.login>d93c23a312535d0b60a067a1f7b9d0750bf30df8</sonar.login>
+      <sonar.login>a84a7f375bff5cf4546cc5e7975c4492e845037e</sonar.login>
     </properties>
 </project>
