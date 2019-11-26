@@ -17,6 +17,6 @@
       <sonar.projectKey>jononekin_softEng1</sonar.projectKey>
       <sonar.organization>jononekin</sonar.organization>
       <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-      <sonar.login>0bb1a015a39e67f0252ae9de69093132dab64bb6</sonar.login>
+      <sonar.login>d93c23a312535d0b60a067a1f7b9d0750bf30df8</sonar.login>
     </properties>
 </project>
