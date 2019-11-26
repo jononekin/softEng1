@@ -14,8 +14,4 @@ public class PruebaTest {
 	public void test2() {
 		assertTrue(2==2);
 	}
-	@Test
-	public void test3() {
-		assertTrue(3==3);
-	}
 }
