@@ -1,0 +1,24 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>iso1</groupId>
+  <artifactId>iso1</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>softEng1</name>
+  <description>softEng1</description>
+  <dependencies>
+      <dependency>
+         <groupId>junit</groupId>
+         <artifactId>junit</artifactId>
+         <version>4.0</version>
+         <scope>test</scope>
+      </dependency>
+   </dependencies>
+   <properties>
+      <sonar.projectKey>jononekin_softEng12</sonar.projectKey>
+      <sonar.organization>jononekin</sonar.organization>
+      <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+      <sonar.login>53657f0705f91f7f15d7ffc83fa89a1538e205d7</sonar.login>
+      <maven.compiler.source>1.8</maven.compiler.source>
+      <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
+</project>
